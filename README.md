@@ -24,7 +24,7 @@ I'm a **Backend Developer** passionate about building scalable web applications 
 ### [B2D-Ventures: Fundraising Platform](https://github.com/Sosokker/B2D-Ventures)
 A scalable platform for managing fundraising activities and user participation, built with **Next.js**.
 
-### [Sleep-Well API](https://github.com/Nantawat6510545543/Sleep-Well-API)
+### [Sleep-Well API](https://github.com/Nantawat6510545543/sleep-well)
 A RESTful API for tracking sleep quality and environmental factors, integrated with **Google Sheets** via **Node-RED**.
 
 ### [KU-ACTIVE Dashboard](https://github.com/Nantawat6510545543/KU-ACTIVE)
