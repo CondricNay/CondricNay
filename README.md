@@ -13,7 +13,7 @@ I'm a **Backend Developer** passionate about building scalable web applications 
 - **Languages**: Python, Java, JavaScript/TypeScript, C++
 - **Frameworks/Tools**: Django, Next.js, Node.js, React
 - **Databases**: PostgreSQL, MySQL, MongoDB
-- **DevOps/Tools**: Git, GitHub, Docker, CI/CD
+- **DevOps/Tools**: Git, GitHub
 
 ## 🌱 Currently Learning
 - Ruby on Rails
