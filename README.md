@@ -1,6 +1,6 @@
 # Hey there! I'm Naytitorn Chaovirachot 👋
 
-I'm a **Backend Developer** passionate about building scalable web applications and APIs. I love solving problems and working with technologies that make an impact. Always keen to learn and grow, I thrive in Agile environments and enjoy collaborating with teams.
+I'm a **Software Developer** passionate about building scalable web applications and APIs. I love solving problems and working with technologies that make an impact. Always keen to learn and grow, I thrive in Agile environments and enjoy collaborating with teams.
 
 ## 💻 What I Do
 - **Backend Development**: Building and maintaining server-side applications.
