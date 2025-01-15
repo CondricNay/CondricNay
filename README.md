@@ -10,25 +10,33 @@ I'm a **Backend Developer** passionate about building scalable web applications 
 - **Code Optimization**: Refactoring and optimizing backend code for performance and maintainability.
 
 ## 🔧 Technologies I Work With
-- **Languages**: Python, Java, JavaScript/TypeScript, C++
-- **Frameworks/Tools**: Django, Next.js, Node.js, React
+- **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML, Basic CSS/Bootstrap/Tailwind
+- **Frameworks/Tools**: Django, Next.js, React, Node.js, Node-RED
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **DevOps/Tools**: Git, GitHub
+- **Testing Tools**: Unittest, Jest, Playwright, Postman
+
+## Development Methodologies
+Agile, Scrum
 
 ## 🌱 Currently Learning
-- Ruby on Rails
 - Svelte
 
 ## 🚀 Notable Projects
 
-### [B2D-Ventures: Fundraising Platform](https://github.com/Sosokker/B2D-Ventures)
-A scalable platform for managing fundraising activities and user participation, built with **Next.js**.
+### [B2D-Ventures: Fundraising Platform](https://github.com/Sosokker/B2D-Ventures)  
+A fundraising platform developed using **Next.js** with features including:  
+- Dashboard analytics and multiple pages for user interaction.  
+- Payment gateway integration (**Stripe**) with thorough testing to ensure functionality and security.  
 
-### [Sleep-Well API](https://github.com/Nantawat6510545543/sleep-well)
-A RESTful API for tracking sleep quality and environmental factors, integrated with **Google Sheets** via **Node-RED**.
+### [Sleep-Well API Web Service](https://github.com/Nantawat6510545543/sleep-well)  
+A RESTful API for managing sleep data, built with **Django REST Framework** and integrated with **Node-RED** to handle:  
+- Data collection from Google Forms/Sheets.  
+- Endpoints for tracking sleep quality, environmental factors, and generating user insights.  
 
-### [KU-ACTIVE Dashboard](https://github.com/Nantawat6510545543/KU-ACTIVE)
-Developed core backend logic for **KU-ACTIVE**, focusing on user activity and interaction.
+### [KU-ACTIVE: Activity Center](https://github.com/Nantawat6510545543/KU-ACTIVE)  
+An activity center backend developed with **Django**, responsible for:  
+- Core backend logic and architecture for managing activity participation.
 
 ## 📬 Let's Connect
 - **Email**: naytitorn21@gmail.com
