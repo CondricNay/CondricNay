@@ -15,12 +15,10 @@ I'm a **Backend Developer** passionate about building scalable web applications 
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **DevOps/Tools**: Git, GitHub
 - **Testing Tools**: Unittest, Jest, Playwright, Postman
-
-## Development Methodologies
-Agile, Scrum
+- **Development Methodologies**: Agile, Scrum
 
 ## 🌱 Currently Learning
-- Svelte
+- Svelte, Hadoop, Swift/Kotlin
 
 ## 🚀 Notable Projects
 
