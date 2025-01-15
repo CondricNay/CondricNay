@@ -22,19 +22,24 @@ I'm a **Software Developer** passionate about building scalable web applications
 
 ## 🚀 Notable Projects
 
-### [B2D-Ventures: Fundraising Platform](https://github.com/Sosokker/B2D-Ventures)  
-A fundraising platform developed using **Next.js** with features including:  
-- Dashboard analytics and multiple pages for user interaction.  
-- Payment gateway integration (**Stripe**) with thorough testing to ensure functionality and security.  
+### [B2D-Ventures: Fundraising Platform](https://github.com/Sosokker/B2D-Ventures)
+A fundraising platform developed using **Next.js** with the following features:
+- **Dashboard analytics** for insights and performance tracking.
+- **Multiple user interaction pages** to engage with the platform.
+- **Payment gateway integration** (Stripe) with comprehensive testing for security and functionality.
 
-### [Sleep-Well API Web Service](https://github.com/Nantawat6510545543/sleep-well)  
-A RESTful API for managing sleep data, built with **Django REST Framework** and integrated with **Node-RED** to handle:  
-- Data collection from Google Forms/Sheets.  
-- Endpoints for tracking sleep quality, environmental factors, and generating user insights.  
+---
 
-### [KU-ACTIVE: Activity Center](https://github.com/Nantawat6510545543/KU-ACTIVE)  
-An activity center backend developed with **Django**, responsible for:  
-- Core backend logic and architecture for managing activity participation.
+### [Sleep-Well API Web Service](https://github.com/Nantawat6510545543/sleep-well)
+A RESTful API for managing sleep data, built with **Django REST Framework** and integrated with **Node-RED**. Key features include:
+- **Data collection** from Google Forms/Sheets for seamless tracking.
+- **Endpoints** for tracking sleep quality, environmental factors, and generating user insights.
+
+---
+
+### [KU-ACTIVE: Activity Center](https://github.com/Nantawat6510545543/KU-ACTIVE)
+Backend development for an activity center using **Django**, designed for:
+- **Core backend logic and architecture** to manage activity participation and user engagement.
 
 ## 📬 Let's Connect
 - **Email**: naytitorn21@gmail.com
