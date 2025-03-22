@@ -11,7 +11,7 @@ I'm a **Software Developer** passionate about building scalable web applications
 
 ## 🔧 Technologies I Work With
 - **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML, Basic CSS/Bootstrap/Tailwind
-- **Frameworks/Tools**: Django, Next.js, React, Node.js, Node-RED
+- **Frameworks/Tools**: Django, Next.js/Nest.js, React, Node.js, Node-RED
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **DevOps/Tools**: Git, GitHub
 - **Testing Tools**: Unittest, Jest, Playwright, Postman
