@@ -5,20 +5,20 @@ I'm a **Software Developer** passionate about building scalable web applications
 ## 💻 What I Do
 - **Backend Development**: Building and maintaining server-side applications.
 - **API Development**: Designing and implementing RESTful APIs.
-- **Database Management**: Working with SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB).
+- **Database Management**: Working with SQL and NoSQL databases (PostgreSQL, MySQL, MongoDB, Firebase).
 - **System Architecture**: Creating scalable and efficient backend architectures.
 - **Code Optimization**: Refactoring and optimizing backend code for performance and maintainability.
 
 ## 🔧 Technologies I Work With
 - **Languages**: Python, Java, JavaScript/TypeScript, C++, HTML, Basic CSS/Bootstrap/Tailwind
 - **Frameworks/Tools**: Django, Next.js/Nest.js, React, Node.js, Node-RED
-- **Databases**: PostgreSQL, MySQL, MongoDB
+- **Databases**: PostgreSQL, MySQL, MongoDB, Firebase
 - **DevOps/Tools**: Git, GitHub
-- **Testing Tools**: Unittest, Jest, Playwright, Postman
+- **Testing Tools**: Unittest, Jest, Playwright, Postman, Selenium
 - **Development Methodologies**: Agile, Scrum
 
 ## 🌱 Currently Learning
-- Svelte, Hadoop, Swift/Kotlin
+- Svelte, Kotlin
 
 ## 🚀 Notable Projects
 
