@@ -1,27 +1,31 @@
 # Hey there! I'm Naytitorn Chaovirachot 👋
+# Naytitorn Chaovirachot (CondricNay)
+
 I like using software to work on real-world problems, especially ones that sit between different fields.
 
 Most of my projects involve collecting data (signals, behavior, environments), processing it, and building tools so the results can be inspected and understood — not just produced.
 
-Current
+---
 
-EEG analysis & visualization platform
-Python · MNE · FastAPI · React
+## Current
+**EEG analysis & visualization platform**  
+Python · MNE · FastAPI · React  
 Interactive inspection of signal-processing pipelines instead of static outputs.
 
-Background
+---
 
-Eye-tracking research on visual navigation (Kyoto Institute of Technology)
+## Background
+- Eye-tracking research on visual navigation (Kyoto Institute of Technology)
+- Automated regression testing infrastructure (SME Development Bank)
+- Behavioral data application combining sleep logs, environment data, and sentiment
 
-Automated regression testing infrastructure (SME Development Bank)
+---
 
-Behavioral data application combining sleep logs, environment data, and sentiment
-
-I tend to work on
-
+## I tend to work on
 applied machine learning · experimental systems · interdisciplinary software · data understanding tools
 
 📫 naytitorn21@gmail.com
+
 
 <!--
 **CondricNay/CondricNay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
