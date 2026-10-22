@@ -5,7 +5,7 @@ I'm a Software and Knowledge Engineering graduate from Kasetsart University, int
 
 I enjoy working with data from different sources — from neural signals and human behavior to historical records — and building systems that make that data easier to explore, analyze, and understand.
 
-## Current Projects
+## Projects
 
 **Gastro Atlas — Interactive Food History Visualization Platform**  
 `Go` · `PostgreSQL` · `React` · `TypeScript` · `D3.js` · `Qwen`
@@ -16,6 +16,11 @@ Exploring the origins and spread of food ingredients through interactive maps an
 `Python` · `MNE` · `TensorFlow` · `Keras` · `FastAPI` · `React`
 
 Developed an interactive platform for EEG preprocessing, analysis, visualization, and machine learning experimentation using HBN datasets, in collaboration with VISTEC.
+
+**Sleep-Well — Android Application**  
+`Kotlin` · `Jetpack Compose` · `Django REST` · `Node-RED` · `TextBlob`
+
+Built REST APIs and data workflows integrating sleep logs, environmental data, and NLP-based sentiment analysis. Ported the service into a native Android application using Kotlin and Jetpack Compose.
 
 ## Experience
 
