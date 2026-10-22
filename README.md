@@ -26,7 +26,6 @@ Built REST APIs and data workflows integrating sleep logs, environmental data, a
 
 - **UX Research Intern — Kyoto Institute of Technology (HILAB):** Conducted eye-tracking experiments to investigate visual navigation behavior and cross-cultural usability differences.
 - **Software Testing Intern — SME D Bank:** Built automated end-to-end regression tests with Playwright and evaluated MCP-based testing approaches.
-- **Sleep-Well Android Application:** Built REST APIs and data workflows combining sleep logs, environmental data, and sentiment analysis, with a native Android interface.
 
 ## Areas of Interest
 
