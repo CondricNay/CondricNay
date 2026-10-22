@@ -1,43 +1,33 @@
 # Hey there! I'm Naytitorn Chaovirachot 👋
-# Naytitorn Chaovirachot (CondricNay)
+### Naytitorn Chaovirachot (CondricNay)
 
-I like using software to work on real-world problems, especially ones that sit between different fields.
+I'm a Software and Knowledge Engineering graduate from Kasetsart University, interested in using software to solve real-world problems across disciplines.
 
-Most of my projects involve collecting data (signals, behavior, environments), processing it, and building tools so the results can be inspected and understood — not just produced.
+I enjoy working with data from different sources — from neural signals and human behavior to historical records — and building systems that make that data easier to explore, analyze, and understand.
 
----
+## Current Projects
 
-## Current
-**EEG analysis & visualization platform**  
-Python · MNE · FastAPI · React  
-Interactive inspection of signal-processing pipelines instead of static outputs.
+**Gastro Atlas — Interactive Food History Visualization Platform**  
+`Go` · `PostgreSQL` · `React` · `TypeScript` · `D3.js` · `Qwen`
 
----
+Exploring the origins and spread of food ingredients through interactive maps and timelines. Building an LLM-powered pipeline to extract historical information into structured, validated data.
 
-## Background
-- Eye-tracking research on visual navigation (Kyoto Institute of Technology)
-- Automated regression testing infrastructure (SME Development Bank)
-- Behavioral data application combining sleep logs, environment data, and sentiment
+**EEG Machine Learning Visualization Platform**  
+`Python` · `MNE` · `TensorFlow` · `Keras` · `FastAPI` · `React`
 
----
+Developed an interactive platform for EEG preprocessing, analysis, visualization, and machine learning experimentation using HBN datasets, in collaboration with VISTEC.
 
-## I tend to work on
-applied machine learning · experimental systems · interdisciplinary software · data understanding tools
+## Experience
 
-📫 naytitorn21@gmail.com
+- **UX Research Intern — Kyoto Institute of Technology (HILAB):** Conducted eye-tracking experiments to investigate visual navigation behavior and cross-cultural usability differences.
+- **Software Testing Intern — SME D Bank:** Built automated end-to-end regression tests with Playwright and evaluated MCP-based testing approaches.
+- **Sleep-Well Android Application:** Built REST APIs and data workflows combining sleep logs, environmental data, and sentiment analysis, with a native Android interface.
 
+## Areas of Interest
 
-<!--
-**CondricNay/CondricNay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied machine learning · AI engineering · Full-stack development · Data science · Data visualization · Human–computer interaction
 
-Here are some ideas to get you started:
+## Contact
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 [naytitorn21@gmail.com](mailto:naytitorn21@gmail.com)  
+💻 [GitHub](https://github.com/CondricNay)
